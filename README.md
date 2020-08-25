@@ -14,6 +14,10 @@
 
 🚄 For future goals, I want to learn more Python and use Machine Learning and improve my experience on Data Analysis.
 
+🦄 This is my current portifolio: https://lcnunes09.github.io/aboutme
+
+
+
 <p align="center">HTML | CSS | JavaScript | ReactJS | Node.js | React Native | TypeScript</p>
 
 
