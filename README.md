@@ -6,9 +6,9 @@
 
 🖥️ I´m currently working at ThoughtWorks, as a Business Analyst (since 2016). However, as I have some personal projects to work on having the purpose of changing lifes, as well as I enjoy being a developer, I'm learning React and Node to complement my background of HTML, CSS and Javascript. Out of curiosity, I used to be a PHP developer for years! Also, I've been working on IT Industry since 2007.
 
-🏅 I was part of two Hackathons in 2020: MegaHack and TecBan. Soon, I will be joining the Mega Hack Women!
+🏅 I was part of two Hackathons in 2020: MegaHack and TecBan. Currently I am part of the Mega Hack Women!
 
-👯 As I love learning new things, I'm looking for someone to work together in different projects and share ideias!
+👯 As I love learning new things, I'm looking for someone to work together in different projects and share ideias! Just as curiosity, I restarted as a dev on June/2020.
 
 🚄 For future goals, I want to learn more Python and use Machine Learning and improve my experience on Data Analysis.
 
