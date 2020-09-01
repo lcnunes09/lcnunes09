@@ -8,7 +8,7 @@
 
 🏅 I was part of two Hackathons in 2020: MegaHack and TecBan. Currently I am part of the Mega Hack Women!
 
-👯 As I love learning new things, I'm looking for someone to work together in different projects and share ideias! Just as curiosity, I restarted as a dev on June/2020.
+👯 As I love learning new things, I'm looking for someone to work together in different projects and share ideias! 
 
 🚄 For future goals, I want to learn more Python and use Machine Learning and improve my experience on Data Analysis.
 
