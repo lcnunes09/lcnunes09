@@ -4,16 +4,13 @@
 
 👩‍🎓 I have a degree in Information Systems. Also I have a MBA in Project Management.
 
-🖥️ I´m currently working at ThoughtWorks, as a Business Analyst (since 2016). However, as I have some personal projects to work on having the purpose of changing lifes, as well as I enjoy being a developer, I'm learning React and Node to complement my background of HTML, CSS and Javascript. Out of curiosity, I used to be a PHP developer for years! Also, I've been working on IT Industry since 2007.
+🏅 I was part of three Hackathons in 2020: MegaHack, TecBan and Mega Hack Women.
 
-🏅 I was part of three Hackathons in 2020: MegaHack, TecBan and Mega Hack Women! I have no words to say how much I've learnt. 
-
-👯 As I love learning new things, I'm looking for someone to work together in different projects and share ideias! 
+👯 As I love learning new things, I'm looking for someone to work together in different projects, pair, and share ideias! 
 
 🚄 For future goals, I want to learn more Python and use Machine Learning and improve my experience on Data Analysis.
 
 🦄 This is my current portifolio: https://lcnunes09.github.io/aboutme
-
 
 
 <p align="center">HTML | CSS | JavaScript | ReactJS | Node.js | React Native | TypeScript</p>
