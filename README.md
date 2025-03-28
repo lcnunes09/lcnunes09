@@ -20,7 +20,7 @@
 
 <p align="center">
   <a
-    href="mailto:lcnunes09@gmail.com" 
+    href="mailto:lcnunes09us@gmail.com" 
     alt="Gmail"
     target="blank"
   >
@@ -28,7 +28,7 @@
     
   </a>
   <a
-    href="https://www.linkedin.com/in/lucianan/" 
+    href="https://www.linkedin.com/in/lcnunes09/" 
     alt="LinkedIn"
     target="blank"
   >
