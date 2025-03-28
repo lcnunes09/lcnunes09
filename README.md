@@ -1,16 +1,18 @@
 ### Hello ✊🏼
 
-🚀 I'm Luciana Nunes, currently living in Dallas, TX.
+👋 Hi, I'm Luciana Nunes, a passionate technologist and lifelong learner currently based in Colorado, USA.
 
-👩‍🎓 I have a degree in Information Systems. Also I have a MBA in Project Management.
+🎓 I hold a degree in Information Systems and an MBA in Project Management, blending technical expertise with strategic leadership. With over 15 years in the IT industry (since 2007), I’ve worn many hats, like developer, scrum master, Project Manager, and currently I'm a Product Manager at Thoughtworks, where I’ve been driving innovative projects since 2016.
 
-🏅 I was part of three Hackathons in 2020: MegaHack, TecBan and Mega Hack Women. Now I just code for fun!
+💻 While I enjoy my current role, my developer roots remain strong. I’m continuously sharpening my skills in Node.js and React, with an eye on creating impactful personal projects aimed at changing lives. I'm also exploring React Native and TypeScript as part of my growing tech stack.
 
-👯 As I love learning new things, I'm looking for someone to work together in different projects, pair, and share ideias! 
+🏆 Hackathons fuel my creativity! In 2020, I proudly participated in MegaHack, TecBan, and Mega Hack Women, collaborating with diverse teams to build solutions for real-world challenges.
 
-🚄 For future goals, I want to learn more Python, use Machine Learning and improve my experience on Data Analysis.
+🎮 Gaming and AI are my passions. My ambitious goal for 2025 is to release my first game: merging storytelling, creativity, and cutting-edge technology. Experimenting with AI always excites me, pushing my boundaries and opening new doors.
 
-🦄 This is my current portifolio: https://lcnunes09.github.io/aboutme
+🤝 I love collaborating and sharing ideas! If you're passionate about innovation and keen to work on inspiring projects together, let's connect.
+
+🌐 Check out my portfolio: lcnunes09.github.io/aboutme
 
 
 <p align="center">HTML5 | CSS3| JavaScript | ReactJS | Node.js | React Native | TypeScript</p>
