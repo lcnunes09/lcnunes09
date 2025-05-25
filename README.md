@@ -12,7 +12,7 @@ But once a builder, always a builder — I never stopped coding.
 
 I'm currently focused on:
 
-- ⚙️ **[TrophyHub](https://github.com/lcnunes09/trophyhub)** – A backend platform to unify gaming achievements across Steam, PlayStation, Xbox, and more. TypeScript-first, Fastify-powered, tested with Vitest, and ready for scale.
+- ⚙️ **[TrophyHub](https://github.com/lcnunes09/trophyhub-backend)** – A backend platform to unify gaming achievements across Steam, PlayStation, Xbox, and more. TypeScript-first, Fastify-powered, tested with Vitest, and ready for scale.
 - 🛠 **[CLI-Toolkit](https://github.com/lcnunes09/cli-toolkit)** – A lightweight, expressive CLI suite for Git automation, built to inspire others to hack their workflow.
 
 ---
