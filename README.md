@@ -1,21 +1,53 @@
-### Hello ✊🏼
+# 👋 Hi, I’m Luciana Nunes
 
-👋 Hi, I'm Luciana Nunes, a passionate technologist and lifelong learner currently based in Colorado, USA.
+🚀 Product mind, dev heart — currently building tools at the intersection of clean code, GenAI, and automation. Based in Colorado, USA 🇺🇸.
 
-🎓 I hold a degree in Information Systems and an MBA in Project Management, blending technical expertise with strategic leadership. With over 15 years in the IT industry (since 2007), I’ve worn many hats, like developer, scrum master, Project Manager, and currently I'm a Product Manager at Thoughtworks, where I’ve been driving innovative projects since 2016.
+---
 
-💻 While I enjoy my current role, my developer roots remain strong. I’m continuously sharpening my skills in Node.js and React, with an eye on creating impactful personal projects aimed at changing lives. I'm also exploring React Native and TypeScript as part of my growing tech stack.
+### 💼 About Me
 
-🏆 Hackathons fuel my creativity! In 2020, I proudly participated in MegaHack, TecBan, and Mega Hack Women, collaborating with diverse teams to build solutions for real-world challenges.
+I'm a lifelong learner with 15+ years in tech, blending hands-on dev work with strategic product leadership. Since 2016, I’ve been a Product Manager at Thoughtworks, where I lead innovative, high-impact projects with cross-functional teams.
 
-🎮 Gaming and AI are my passions. My ambitious goal for 2025 is to release my first game: merging storytelling, creativity, and cutting-edge technology. Experimenting with AI always excites me, pushing my boundaries and opening new doors.
+But once a builder, always a builder — I never stopped coding.
 
-🤝 I love collaborating and sharing ideas! If you're passionate about innovation and keen to work on inspiring projects together, let's connect.
+I'm currently focused on:
 
-🌐 Check out my portfolio: lcnunes09.github.io/aboutme
+- ⚙️ **[TrophyHub](https://github.com/lcnunes09/trophyhub)** – A backend platform to unify gaming achievements across Steam, PlayStation, Xbox, and more. TypeScript-first, Fastify-powered, tested with Vitest, and ready for scale.
+- 🛠 **[CLI-Toolkit](https://github.com/lcnunes09/cli-toolkit)** – A lightweight, expressive CLI suite for Git automation, built to inspire others to hack their workflow.
 
+---
 
-<p align="center">HTML5 | CSS3| JavaScript | ReactJS | Node.js | React Native | TypeScript</p>
+### 🧠 Always Learning
+
+- Full-stack TypeScript (Fastify, Prisma, Docker, Vitest)
+- Advanced testing (unit, integration, E2E)
+- GenAI APIs and ML-driven products
+- Clean backend architecture and DX automation
+
+---
+
+### 🎮 Passion Projects
+
+Gaming meets tech is my happy place. My 2025 goal: release my first game, combining narrative, creativity, and AI. I've been exploring game dev, emulators, achievements, and player-centric tools that inspire fun and progress.
+
+---
+
+### 💬 Let’s Connect
+
+I'm open to:
+- Code pairing and test-driven collabs
+- Product career chats and mentorship
+- GenAI experiments and OSS contributions
+
+If you're building something cool or want to jam on ideas — reach out!
+
+---
+
+### 🛠 Tech Stack (core)
+
+TypeScript | Fastify | Prisma | Vitest | Node.js | Docker | GitHub Actions | Zsh | React | SQL
+
+🌐 [Portfolio & Projects](https://lcnunes09.github.io/aboutme)
 
 
 <p align="center">
